@@ -2,6 +2,7 @@ require_relative "./topics_test_helper"
 
 describe "topics" do
   # Used by the Topics Page Style Guide test
+  #how do i do pull requests??
   end_punctuation = %w[. , ; :] + [" "]
   month_abbreviations = %w[Jan Feb Mar Apr Jun Jul Aug Sep Oct Nov Dec]
   git_verbs = %w[GitHubbing Gitting]
